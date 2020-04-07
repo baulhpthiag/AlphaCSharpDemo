@@ -23,7 +23,8 @@ namespace ExcelDemo
         private void writeExcelButton_Click(object sender, EventArgs e)
         {
             string currentPath = Directory.GetCurrentDirectory();
-            WriteExcel(currentPath + "\\results.xlsx");
+            //WriteExcel(currentPath + "\\results.xlsx");
+            WriteExcel(currentPath + "\\结果.xlsx");
 
             MessageBox.Show("Success!");
         }
