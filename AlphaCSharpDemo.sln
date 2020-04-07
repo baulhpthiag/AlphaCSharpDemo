@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelDemo", "SourceCode\Exc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadDemo", "SourceCode\ThreadDemo\ThreadDemo.csproj", "{904A15CA-31EC-40A4-89F1-F2C6314CF45F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseDemo", "SourceCode\DatabaseDemo\DatabaseDemo.csproj", "{B7D4AA15-D124-40EA-8B2D-8D4AC9EB6881}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysqlDemo", "SourceCode\MysqlDemo\MysqlDemo.csproj", "{19DCDA4B-E756-4608-B146-8B90D9638F6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{904A15CA-31EC-40A4-89F1-F2C6314CF45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904A15CA-31EC-40A4-89F1-F2C6314CF45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904A15CA-31EC-40A4-89F1-F2C6314CF45F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7D4AA15-D124-40EA-8B2D-8D4AC9EB6881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7D4AA15-D124-40EA-8B2D-8D4AC9EB6881}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7D4AA15-D124-40EA-8B2D-8D4AC9EB6881}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7D4AA15-D124-40EA-8B2D-8D4AC9EB6881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DCDA4B-E756-4608-B146-8B90D9638F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DCDA4B-E756-4608-B146-8B90D9638F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DCDA4B-E756-4608-B146-8B90D9638F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DCDA4B-E756-4608-B146-8B90D9638F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

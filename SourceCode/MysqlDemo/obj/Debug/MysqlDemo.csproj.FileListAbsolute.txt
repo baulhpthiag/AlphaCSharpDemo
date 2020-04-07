@@ -1,0 +1,17 @@
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\MysqlDemo.exe.config
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\MysqlDemo.exe
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\MysqlDemo.pdb
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\BouncyCastle.Crypto.dll
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\Google.Protobuf.dll
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\MySql.Data.dll
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\Renci.SshNet.dll
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\Ubiety.Dns.Core.dll
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\Google.Protobuf.xml
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\MySql.Data.xml
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\bin\Debug\Renci.SshNet.xml
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\obj\Debug\MysqlDemo.csprojResolveAssemblyReference.cache
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\obj\Debug\MysqlDemo.Form1.resources
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\obj\Debug\MysqlDemo.Properties.Resources.resources
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\obj\Debug\MysqlDemo.csproj.GenerateResource.Cache
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\obj\Debug\MysqlDemo.exe
+D:\alpha\a0\program\CSharp\AlphaCSharpDemo\SourceCode\MysqlDemo\obj\Debug\MysqlDemo.pdb
